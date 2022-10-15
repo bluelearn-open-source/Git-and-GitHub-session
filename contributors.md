@@ -11,3 +11,4 @@
 - [iharshka](https://github.com/iharshka)
 - [Chinmay-03](https://github.com/Chinmay-03)
 - [keshav](https://github.com/kkeshavpareekk)
+- [tinniaru3005](https://github.com/tinniaru3005)
